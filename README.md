@@ -95,7 +95,10 @@ Check out our [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
 ---
 
 ## 📊 Data Sources
-We recommend using official AFL statistics APIs or publicly available data from platforms like Champion Data. **Ensure compliance with all data usage guidelines.**
+- **Raw Data**: `data/raw/afl_player_stats_2023_2024.csv`
+  - Source: Generated using `fitzRoy` R package.
+  - Seasons: 2023–2024.
+
 
 ---
 
