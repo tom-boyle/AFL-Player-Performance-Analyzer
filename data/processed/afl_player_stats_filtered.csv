@@ -1,0 +1,47 @@
+providerId,utcStartTime,team.name,home.team.name,away.team.name,player.givenName,player.surname,goals,behinds,goalAccuracy,goalAssists,disposals,kicks,handballs,contestedPossessions,uncontestedPossessions,totalPossessions,tackles,intercepts,rebound50s,disposalEfficiency,clangers,metresGained,scoreInvolvements,bounces
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Callum,Ah Chee,1,0,100.0,0,16,11,5,5,11,16,3,2,1,75.0,6,331,3,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Harris,Andrews,0,0,0.0,0,15,12,3,7,7,14,2,9,7,86.7,2,280,2,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Zac,Bailey,1,0,100.0,0,15,12,3,8,8,16,5,3,1,86.7,2,319,8,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Jarrod,Berry,0,0,0.0,0,17,11,6,6,11,17,0,6,2,41.2,3,294,4,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Charlie,Cameron,2,3,33.3,0,10,8,2,6,4,10,3,0,0,40.0,3,182,5,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Keidean,Coleman,0,0,0.0,2,8,6,2,2,6,8,0,2,1,87.5,0,141,4,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Joe,Daniher,1,2,33.3,1,14,11,3,5,9,14,0,0,0,50.0,4,433,8,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Josh,Dunkley,0,0,0.0,0,21,11,10,9,13,22,9,8,1,66.7,3,293,4,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Jaspa,Fletcher,0,0,0.0,0,10,3,7,2,8,10,1,2,2,90.0,2,159,2,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Darcy,Gardiner,0,0,0.0,1,11,3,8,6,5,11,2,2,1,100.0,3,140,8,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Eric,Hipwood,1,2,25.0,0,9,9,0,5,6,11,1,2,0,44.4,3,255,4,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Ryan,Lester,0,0,0.0,0,15,12,3,4,9,13,2,6,3,80.0,3,255,2,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Kai,Lohmann,0,0,0.0,0,6,4,2,1,5,6,0,0,1,83.3,1,134,3,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Jarryd,Lyons,0,0,0.0,1,19,10,9,7,11,18,9,2,0,78.9,3,258,6,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Lincoln,McCarthy,2,3,40.0,0,13,10,3,4,9,13,2,0,1,53.8,3,300,10,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Hugh,McCluggage,1,0,100.0,0,18,12,6,4,13,17,2,2,2,83.3,3,362,4,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Oscar,McInerney,0,0,0.0,0,13,9,4,14,0,14,6,2,1,38.5,7,312,3,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Lachie,Neale,0,0,0.0,1,25,9,16,13,12,25,2,5,0,76.0,1,211,6,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Jack,Payne,0,0,0.0,0,5,4,1,4,2,6,1,3,1,40.0,2,-11,0,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Cam,Rayner,1,0,50.0,0,15,8,7,7,8,15,6,1,2,73.3,4,233,5,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Brandon,Starcevich,0,0,0.0,0,8,7,1,3,4,7,0,3,3,87.5,1,153,1,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Darcy,Wilmot,0,0,0.0,0,21,17,4,6,9,15,1,6,5,66.7,4,522,3,2
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Brisbane Lions,Brisbane Lions,Carlton,Dayne,Zorko,2,0,100.0,1,19,12,7,5,13,18,6,3,1,84.2,3,292,7,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Blake,Acres,0,0,0.0,1,22,12,10,11,12,23,0,6,1,77.3,2,331,7,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Jordan,Boyd,0,0,0.0,0,16,14,2,2,14,16,3,4,5,87.5,4,362,2,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Jack,Carroll,1,0,100.0,0,10,7,3,6,4,10,2,1,1,80.0,1,231,2,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Adam,Cerra,0,0,0.0,1,25,11,14,14,10,24,4,3,0,68.0,5,323,4,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Matthew,Cottrell,1,0,100.0,0,14,9,5,5,8,13,0,3,0,71.4,2,299,3,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Patrick,Cripps,1,0,100.0,0,23,8,15,10,13,23,2,3,0,73.9,4,239,1,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,David,Cuningham,1,2,33.3,0,12,5,7,6,6,12,5,1,0,75.0,1,251,4,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Charlie,Curnow,4,0,100.0,0,11,11,0,5,5,10,0,2,2,72.7,3,312,6,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Tom,De Koning,0,0,0.0,0,11,5,6,7,3,10,3,1,1,72.7,4,126,3,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Sam,Docherty,0,0,0.0,0,10,9,1,2,9,11,1,1,4,60.0,3,314,2,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Orazio,Fantasia,0,0,0.0,2,11,4,7,3,7,10,1,1,0,45.5,2,131,3,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Lachie,Fogarty,1,0,100.0,2,13,5,8,6,7,13,9,3,0,61.5,1,182,5,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,George,Hewett,0,0,0.0,0,27,15,12,13,15,28,5,3,2,70.4,5,409,5,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Oliver,Hollands,0,0,0.0,0,8,6,2,2,7,9,8,0,1,62.5,3,123,0,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Brodie,Kemp,0,0,0.0,0,15,6,9,8,8,16,1,8,5,80.0,2,137,1,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Matthew,Kennedy,1,0,100.0,0,10,6,4,6,4,10,2,1,0,70.0,2,169,2,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Mitch,McGovern,0,1,0.0,0,17,14,3,4,9,13,4,7,1,82.4,1,339,6,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Harry,McKay,3,1,60.0,1,13,9,4,10,6,16,2,0,0,76.9,3,254,8,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Nic,Newman,0,0,0.0,1,16,15,1,3,13,16,3,3,5,62.5,3,402,3,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Matthew,Owies,0,0,0.0,0,8,6,2,3,5,8,1,1,0,87.5,1,86,5,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Adam,Saad,0,0,0.0,0,15,9,6,4,7,11,1,7,7,86.7,2,283,1,2
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Zac,Williams,0,0,0.0,0,19,17,2,5,12,17,2,4,4,78.9,4,375,1,0
+CD_M20240140002,2024-03-08T08:40:00.000+0000,Carlton,Brisbane Lions,Carlton,Lewis,Young,0,0,0.0,0,15,13,2,6,7,13,0,7,11,66.7,1,431,1,0
