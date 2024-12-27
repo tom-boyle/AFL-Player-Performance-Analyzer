@@ -1,8 +1,9 @@
+from pathlib import Path
 import pandas as pd
 
 # Load the processed AFL data
-file_path = "../data/processed/afl_player_stats_filtered.csv"
-data = pd.read_csv(file_path)
+file_path = Path("../data/processed/afl_player_stats_filtered.csv")
+data = pd.read_csv(file_path, encoding='utf-8')
 
 # Combine player names for readability
 data["player_name"] = data["player.givenName"] + " " + data["player.surname"]
