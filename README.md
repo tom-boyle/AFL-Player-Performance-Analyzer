@@ -1,39 +1,60 @@
-
 # AFL Player Performance Analyzer
 
-## 📖 Project Overview
-The **AFL Player Performance Analyzer** is an open-source initiative to leverage cutting-edge machine learning and AI techniques for analyzing Australian Football League (AFL) player performance. By evaluating data from the last two seasons, this project aims to provide insights on:
-- Goals and disposals
-- Player matchups
-- Injury prediction
-- Game and team impact metrics
+![GitHub stars](https://img.shields.io/github/stars/tom-boyle/AFL-Player-Performance-Analyzer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tom-boyle/AFL-Player-Performance-Analyzer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/tom-boyle/AFL-Player-Performance-Analyzer)
+![License](https://img.shields.io/github/license/tom-boyle/AFL-Player-Performance-Analyzer)
 
-All insights will be presented in an **interactive interface**, offering fans, analysts, and bettors a unique way to explore player and game performance.
-
----
-
-## 🎯 Project Goals
-- **Revolutionize AFL Analytics**: Use advanced AI methods to derive novel insights.
-- **Open-Source Collaboration**: Build in public, encouraging contributions from the community.
-- **Interactive Insights**: Present data through an intuitive dashboard for seamless exploration.
-- **Disruption**: Shift the industry’s approach to AFL analysis by introducing modern, scalable techniques.
+🏉 **AI-powered AFL player analytics for insights on matchups, injuries, and performance.**  
+🔍 **Leverage machine learning to uncover trends, predict outcomes, and analyze key AFL statistics.**  
 
 ---
 
-## 🚀 Features
-- **Core Metrics**:
-  - Player performance trends (goals, disposals, efficiency).
-  - Head-to-head player matchups with contextual analysis.
-- **Advanced Predictions**:
-  - Injury likelihood based on historical and contextual data.
-  - Impact metrics for players and teams during games.
-- **Interactive Dashboard**:
-  - Filter data by player, team, season, or match.
-  - Visualize performance trends, matchup outcomes, and more.
+## 📖 **Project Overview**
+The **AFL Player Performance Analyzer** is an open-source initiative using **machine learning and AI** to analyze Australian Football League (**AFL**) player performance. By evaluating data from recent seasons, this project aims to provide:
+
+- 📊 **Performance Insights** – Goals, disposals, and efficiency tracking.  
+- ⚔️ **Player Matchups** – Compare head-to-head matchups with statistical analysis.  
+- 🏥 **Injury Prediction** – Forecast injury likelihood based on historical and contextual data.  
+- 🔄 **Game & Team Impact** – Identify player contributions and game-changing moments.  
+
+💡 **All insights are presented in an interactive dashboard, making it accessible for**:
+- **AFL fans** who want deeper insights.  
+- **Analysts** seeking data-driven decision-making.  
+- **Bettors** looking for an edge in predictions.  
+
+🔥 **If you find this project useful, please consider** ⭐ **starring it!** It helps others discover it.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/example-afl-dashboard.png" width="600">
+</p>
 
 ---
 
-## 🏗️ Project Structure
+## 🎯 **Project Goals**
+✅ **Revolutionize AFL Analytics** – Use advanced AI methods to derive novel insights.  
+✅ **Open-Source Collaboration** – Build in public, encouraging contributions from the community.  
+✅ **Interactive Insights** – Present data through an intuitive dashboard for seamless exploration.  
+✅ **Disruption** – Shift the industry’s approach to AFL analysis with modern, scalable techniques.  
+
+---
+
+## 🚀 **Features**
+🔹 **Core Metrics**:
+- Track player performance trends (**goals, disposals, efficiency**).
+- **Compare matchups** with contextual analytics.
+
+🔹 **Advanced Predictions**:
+- **Injury likelihood modeling** using past injuries & game context.
+- **Player & team impact metrics** to analyze game-changing moments.
+
+🔹 **Interactive Dashboard**:
+- **Filter by player, team, season, or match**.
+- **Visualize trends, matchups, and impact scores**.
+
+---
+
+## 📂 **Project Structure**
 ```plaintext
 AFL-Player-Performance-Analyzer/
 ├── data/                  # Raw and processed datasets
@@ -51,67 +72,59 @@ AFL-Player-Performance-Analyzer/
 
 ---
 
-## 🛠️ Getting Started
+## ▶ **Getting Started**
 
-### Prerequisites
-- Python 3.8 or higher
-- A GitHub account for contributing
+### 🔧 Prerequisites
+Ensure **Python 3.8+** is installed. Install dependencies using:
+```bash
+pip install -r requirements.txt
+```
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/AFL-Player-Performance-Analyzer.git
-   cd AFL-Player-Performance-Analyzer
-   ```
+### ▶ Running the Dashboard
+```bash
+streamlit run interface/app.py
+```
 
-2. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Launch Jupyter notebooks or run the dashboard:
-   ```bash
-   jupyter lab
-   # OR
-   streamlit run interface/app.py
-   ```
+### ▶ Running in Jupyter Notebook
+```bash
+jupyter lab
+```
 
 ---
 
-## 🤝 Contributing
-We welcome contributions of all kinds! Here's how you can help:
-1. Fork the repository and create a new branch for your changes.
-2. Submit a pull request with a description of your contribution.
-3. Join the discussion on GitHub issues and share your ideas.
+## 🛠 **Contributing**
+We welcome contributions! Here’s how you can help:
+1. **Fork** the repository.
+2. **Create a branch** (`feature-new-analysis`).
+3. **Commit** your changes.
+4. **Submit a Pull Request** (PR).
 
-Check out our [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
+🔍 Check **[open issues](https://github.com/tom-boyle/AFL-Player-Performance-Analyzer/issues)** to find something to work on!
 
 ---
 
-## 📊 Data Sources
+## 📊 **Data Sources**
 - **Raw Data**: `data/raw/afl_player_stats_2023_2024.csv`
-  - Source: Generated using `fitzRoy` R package.
-  - Seasons: 2023–2024.
-
-
----
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+  - Source: Generated using **fitzRoy R package**.
+  - Seasons: **2023–2024**.
 
 ---
 
-## 🌟 Acknowledgements
-A huge thank you to the AFL community and contributors who help make this project possible. Your input and support fuel our vision to transform AFL analytics.
+## ⭐ **Support**
+If you find this project useful:
+- **Star the repo** ⭐ (top right corner)
+- **Share it** on social media
+- **Suggest improvements** in the **Issues** tab
 
 ---
 
-## 🔗 Follow Along
-Stay updated on our progress:
-- GitHub Discussions: [Join Here](https://github.com/tom-boyle/AFL-Player-Performance-Analyzer/discussions)
+## 📜 **License**
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
+
+---
+
+## 📢 **Connect with Me**
+[![X](https://img.shields.io/badge/X-@tomlikestocode-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/tomlikestocode)
+[![GitHub](https://img.shields.io/badge/GitHub-TomBoyle-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/tom-boyle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TomBoyle-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-boyle-au/)
+[![Website](https://img.shields.io/badge/Website-tomboyle.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://tomboyle.io)
