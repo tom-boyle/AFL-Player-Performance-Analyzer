@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/github/license/tom-boyle/AFL-Player-Performance-Analyzer)
 
 🏉 **AI-powered AFL player analytics for insights on matchups, injuries, and performance.**  
+
 🔍 **Leverage machine learning to uncover trends, predict outcomes, and analyze key AFL statistics.**  
 
 ---
