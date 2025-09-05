@@ -62,7 +62,7 @@ kiwisolver==1.4.5
 kubernetes==31.0.0
 langchain==0.3.8
 langchain-cli==0.0.29
-langchain-community==0.3.8
+langchain-community==0.3.27
 langchain-core==0.3.21
 langchain-experimental==0.3.3
 langchain-openai==0.1.22
