@@ -132,7 +132,7 @@ requests-toolbelt==1.0.0
 rich==13.7.1
 rpds-py==0.20.0
 rsa==4.9
-setuptools==70.0.0
+setuptools==78.1.1
 shellingham==1.5.4
 six==1.16.0
 smmap==5.0.1
