@@ -63,7 +63,7 @@ kubernetes==31.0.0
 langchain==0.3.8
 langchain-cli==0.0.29
 langchain-community==0.3.8
-langchain-core==0.3.21
+langchain-core==0.3.81
 langchain-experimental==0.3.3
 langchain-openai==0.1.22
 langchain-text-splitters==0.3.2
